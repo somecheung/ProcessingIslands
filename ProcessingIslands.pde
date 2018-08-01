@@ -26,7 +26,5 @@ void setup() {
 void draw() {
   background(255);
   gridT();
+  saveFrame("###.jpg");
 }
-
-//saveFrame("###.jpg");
-
